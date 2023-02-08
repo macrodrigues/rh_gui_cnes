@@ -1,0 +1,2236 @@
+('C:\\Users\\Marco Rodrigues\\Desktop\\script\\build\\app\\PYZ-00.pyz',
+ [('win32com',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('extract_mails',
+   'C:\\Users\\Marco Rodrigues\\Desktop\\script\\extract_mails.py',
+   'PYMODULE'),
+  ('xlsxwriter',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\__init__.py',
+   'PYMODULE'),
+  ('xlsxwriter.workbook',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\workbook.py',
+   'PYMODULE'),
+  ('xlsxwriter.exceptions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\exceptions.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_stock',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_stock.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_scatter',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_scatter.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_radar',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_radar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_line',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_line.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_doughnut',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_doughnut.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_column',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_column.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_bar',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_bar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_area',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_area.py',
+   'PYMODULE'),
+  ('xlsxwriter.utility',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\utility.py',
+   'PYMODULE'),
+  ('xlsxwriter.packager',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\packager.py',
+   'PYMODULE'),
+  ('xlsxwriter.comments',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\comments.py',
+   'PYMODULE'),
+  ('xlsxwriter.table',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\table.py',
+   'PYMODULE'),
+  ('xlsxwriter.vml',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\vml.py',
+   'PYMODULE'),
+  ('xlsxwriter.theme',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\theme.py',
+   'PYMODULE'),
+  ('xlsxwriter.styles',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\styles.py',
+   'PYMODULE'),
+  ('xlsxwriter.relationships',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\relationships.py',
+   'PYMODULE'),
+  ('xlsxwriter.metadata',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\metadata.py',
+   'PYMODULE'),
+  ('xlsxwriter.custom',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\custom.py',
+   'PYMODULE'),
+  ('xlsxwriter.core',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\core.py',
+   'PYMODULE'),
+  ('xlsxwriter.contenttypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\contenttypes.py',
+   'PYMODULE'),
+  ('xlsxwriter.app',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\app.py',
+   'PYMODULE'),
+  ('xlsxwriter.format',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\format.py',
+   'PYMODULE'),
+  ('xlsxwriter.sharedstrings',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\sharedstrings.py',
+   'PYMODULE'),
+  ('xlsxwriter.chartsheet',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chartsheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.drawing',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\drawing.py',
+   'PYMODULE'),
+  ('xlsxwriter.shape',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\shape.py',
+   'PYMODULE'),
+  ('xlsxwriter.worksheet',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\worksheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_pie',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart_pie.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\chart.py',
+   'PYMODULE'),
+  ('xlsxwriter.xmlwriter',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\xlsxwriter\\xmlwriter.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler_opt',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\ccompiler_opt.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('pipes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\pipes.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.typing._add_docstring',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy.typing._generic_alias',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy.typing._array_like',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy.typing._dtype_like',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy.typing._shape',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy.typing._scalars',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy.typing._char_codes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy.typing._nbit',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy.typing._nested_sequence',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\marco '
+   'rodrigues\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'PYMODULE')])
